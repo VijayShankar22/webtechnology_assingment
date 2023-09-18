@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nested List</title>
+</head>
+<body>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea
+            <ul>
+                <li>Black Tea</li>
+                <li>Green Tea</li>
+                <li>Milk Tea</li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li>Milk
+        <ul>
+        <li>Full Cream Milk</li>
+        <li>Toned Milk</li>
+    </ul>
+    </li>
+</body>
+</html>
